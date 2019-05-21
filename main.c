@@ -17,16 +17,6 @@ int min_element(int* arr, int size)
 
 void print_array(int* arr, int size)
 {
-	printf("Array: ");
-	int i;
-	for (i = 0; i < size; ++i) {
-			printf("%d ", arr[i]);
-		}
-	printf("\n");
-}
-
-void print_array(int* arr, int size)
-{
 
 	int arr[] = {3, 1, 4, 1, 5, 9, 2, 6, 5, 3};
 
